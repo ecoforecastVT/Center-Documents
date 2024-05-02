@@ -1,4 +1,4 @@
-## Useful files for members of the [Virginia Tech Center for Ecosystem Forecasting](https://www.centers.ecoforecast.vt.edu/)
+## Useful files for members of the [Virginia Tech Center for Ecosystem Forecasting](https://www.ecoforecast.centers.vt.edu/)
 
 ### General Center Documents 
 * [Center Authorship Guidelines](https://github.com/ecoforecastVT/Center-Documents/blob/main/docs/CEFAuthorshipGuidelines.md)
