@@ -1,7 +1,7 @@
 # Virginia Tech Center for Ecosystem Forecasting Code of Conduct
 
 
-We are committed to providing a safe, inclusive, accessible, and harassment-free experience to everyone, including all center members, affiliates, and participants in center events. This code of conduct will be enforced as needed and applies to all VT-CEF members and affiliates; we note that this code supplements existing university and department policies, including the VT Principles of Community ([https://www.vt.edu/principles-of-community.html]). This code was developed with the goal of affirming our center’s commitment to everyone’s growth and development, both personally and scientifically. This is a living document and we will revisit and update this document annually.
+We are committed to providing a safe, inclusive, accessible, and harassment-free experience to everyone, including all center members, affiliates, and participants in center events. This code of conduct will be enforced as needed and applies to all VT-CEF members and affiliates; we note that this code supplements existing university and department policies, including the VT Principles of Community [https://www.vt.edu/principles-of-community.html]. This code was developed with the goal of affirming our center’s commitment to everyone’s growth and development, both personally and scientifically. This is a living document and we will revisit and update this document annually.
 
 ## Philosophy and Motivation
 
