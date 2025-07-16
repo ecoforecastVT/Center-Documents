@@ -2,7 +2,7 @@
 
 We are committed to providing a safe, inclusive, accessible, and harassment-free experience to everyone. This statement was developed with the goal of affirming our center’s commitment to everyone’s personal and scientific growth and development. This is a living document that we will revisit and update annually.
 
-Safe, inclusive, accessible, and harassment-free environments don’t just happen: they are created by both 1) day-to-day interactions we all have with each other and 2) ensuring that our commitment to these principles is embedded in the center’s longer-term strategic decisions. It is the responsibility of all members of our group to work together to create and maintain a safe, inclusive, accessible, and harassment-free environment for all.
+Safe, inclusive, accessible, and harassment-free environments don’t just happen: they are created by both 1) day-to-day interactions we all have with each other and 2) ensuring that our commitment to these principles is embedded in the center’s longer-term strategic decisions. It is the responsibility of all members of our center to work together to create and maintain a safe, inclusive, accessible, and harassment-free environment for all.
 
 ## Action Plan
 
